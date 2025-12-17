@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-from urban_routes_main_page import UrbanRoutesPage
+from urban_routes_main_page import UrbanRoutesPag
 
 # Create a class for both tests
 class TestUrbanRoutes:
