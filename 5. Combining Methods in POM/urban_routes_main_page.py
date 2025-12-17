@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 # Defining the page class, locators and method in the class
 class UrbanRoutesPage:
     # Locators as class attributes
-    FROM_LOCATOR = (By.ID, 'from')
+    FROM_LOCATOR = (By.ID, 'from')oo
     TO_LOCATOR = (By.ID, 'to')
     CUSTOM_OPTION_LOCATOR = (By.XPATH, '//div[text()="Custom"]')
     DRIVE_ICON_LOCATOR = (By.XPATH, '(//img[@src="/static/media/car.8a2b1ff5.svg"])[2]')
