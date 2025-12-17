@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
 
-# Defining the page class, locators and method in the class
+# Defining the page class, locators and method in thooe class
 class UrbanRoutesPage:
     # Locators as class attributes
     FROM_LOCATOR = (By.ID, 'from')
