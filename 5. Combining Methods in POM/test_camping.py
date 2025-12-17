@@ -6,7 +6,7 @@ from urban_routes_main_page import UrbanRoutesPage
 class TestUrbanRoutes:
 
     def test_drive_custom_camping_option(self):
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome()ii
         driver.get('https://cnt-784b233b-3492-4228-8423-83e3047817c1.containerhub.tripleten-services.com')
 
         # Create an instance of the page class
